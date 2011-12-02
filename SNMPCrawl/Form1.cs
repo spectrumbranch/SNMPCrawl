@@ -9,7 +9,10 @@ using System.IO;
 using System.Windows.Forms;
 using System.Diagnostics;
 
-// TO ADD: show name of input file for servers in the status bar.
+// TO ADD:  - show name of input file for servers in the status bar.
+//          - textboxes for filepath inputs.
+//          - be able to set output destination at the beginning.
+//          - output sorting by result, as an option.
 namespace SNMPCrawl
 {
     /* SNMPCrawl
